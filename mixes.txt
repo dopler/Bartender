@@ -1,0 +1,22 @@
+//This file holds all the information for mixes
+//name
+//ingredients
+//description
+//glass
+//instructions
+//alcohol type * maybe?
+
+'61 Imperial Recipe
+ 1/2 oz white rum, 1/2 oz vodka, 1/2 oz 151 proof rum, 1/2 oz creme de bananes, 1.oz Blue Curacao liqueur, 4 oz pinneaple juice  
+'61 Imperial is a tropical cocktail created by Porfirio (Steve) Alva, Stockton, California and named after his 1961 Chrysler Imperial, a most outlandish design year, hence, most outlandish cocktail. The '61 is a popular serving at his summer poolside parties. 
+Hurricane Glass 
+In a tall chimney glass or hurricane glass, fill with cubed ice; add all liquor except the blue curacao. Add the pineapple juice, stir well, and float the blue curacao on top. Garnish with a pineapple slice and a maraschino cherry, and serve.
+
+//
+
+
+'61 Imperial Recipe
+ 1/2 oz white rum, 1/2 oz vodka, 1/2 oz 151 proof rum, 1/2 oz creme de bananes, 1.oz Blue Curacao liqueur, 4 oz pinneaple juice  
+'61 Imperial is a tropical cocktail created by Porfirio (Steve) Alva, Stockton, California and named after his 1961 Chrysler Imperial, a most outlandish design year, hence, most outlandish cocktail. The '61 is a popular serving at his summer poolside parties. 
+Hurricane Glass 
+In a tall chimney glass or hurricane glass, fill with cubed ice; add all liquor except the blue curacao. Add the pineapple juice, stir well, and float the blue curacao on top. Garnish with a pineapple slice and a maraschino cherry, and serve.
