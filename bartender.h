@@ -19,7 +19,7 @@ class drink
   string directions; // possible vector to indicate steps?
  public:
   drink();
-  drink(string, string, string, string, string);
+  drink(string, string, string, string);
   void printDrink();
 };
 
